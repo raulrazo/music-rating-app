@@ -3,6 +3,7 @@ module.exports = {
   rules: {
     'type-empty': [0, 'always'],
     'subject-empty': [0, 'always'],
+    // PUTtING THIS HERE TO TEST COMMIT
     //   TODO Add Scope Enum Here
     // 'scope-enum': [2, 'always', ['yourscope', 'yourscope']],
     // 'type-enum': [
